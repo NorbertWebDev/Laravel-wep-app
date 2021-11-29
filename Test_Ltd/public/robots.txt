@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /app/
+Disallow: /bootstrap/
+Disallow: /config/
+Disallow: /database/
+Disallow: /manifest/
+Disallow: /public/
+Disallow: /public/.htaccess
+Disallow: /public/robots.txt
+Disallow: /public/web.config
+Disallow: /resources/lang/
+Disallow: /routes/
+Disallow: /storage/
+Disallow: /tests/
+Disallow: /vendor/
